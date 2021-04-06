@@ -7,24 +7,26 @@ p {
     text-align: center;
     font-family: 'Amatic SC', cursive;
     font-size: 3em;
-    margin:0px;
+    margin:10px;
 
 }
 tr{
     text-align: center;
 }
 .w3-padding-64{
-    background-color: rgb(171, 218, 198);
+    background-color: rgb(119,136,153)
+    ;
 }
 body{
-    background-color: rgb(171, 218, 198); 
+    background-color: rgb(119,136,153)
+    ; 
 }
-w3-content{
-    background-color: rgb(171, 218, 198); 
+.w3-content{
+    background-color: rgb(119,136,153); 
 }
 
 .w3-blue-grey{
-    background-color: rgb(171, 218, 198) !important; 
+    background-color: rgb(119,136,153)!important; 
 }
 w3-row{
     background-color: gray;
